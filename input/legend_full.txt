@@ -1,0 +1,499 @@
+1. 52 Fallon MF, Kaess M, Johannsson H, Leonard JJ
+Efficient AUV Navigation Fusing Acoustic Ranging and Side-scan Sonar
+2011 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA). 2011; : 2398-2405
+LCR: 0   CR: 38   LCS: 19   GCS: 48   OCS:  
+
+2. 157 Tucker JD, Azimi-Sadjadi MR
+Coherence-Based Underwater Target Detection From Multiple Disparate Sonar Platforms
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2011 JAN; 36 (1): 37-51
+LCR: 0   CR: 30   LCS: 15   GCS: 33   OCS:  
+
+3. 159 Barkby S, Williams SB, Pizarro O, Jakuba MV
+A Featureless Approach to Efficient Bathymetric SLAM Using Distributed Particle Mapping
+JOURNAL OF FIELD ROBOTICS. 2011 JAN-FEB; 28 (1): 19-39
+LCR: 0   CR: 36   LCS: 13   GCS: 49   OCS:  
+
+4. 163 McGonigle C, Grabowski JH, Brown CJ, Weber TC, Quinn R
+Detection of deep water benthic macroalgae using image-based classification techniques on multibeam backscatter at Cashes Ledge, Gulfof Maine, USA
+ESTUARINE COASTAL AND SHELF SCIENCE. 2011 JAN 1; 91 (1): 87-101
+LCR: 1   CR: 65   LCS: 8   GCS: 35   OCS:  
+
+5. 168 Brown CJ, Todd BJ, Kostylev VE, Pickrill RA
+Image-based classification of multibeam sonar backscatter data for objective surficial sediment mapping of Georges Bank, Canada
+CONTINENTAL SHELF RESEARCH. 2011 FEB 15; 31 (2): S110-S119
+LCR: 0   CR: 44   LCS: 9   GCS: 50   OCS:  
+
+6. 179 Bulow H, Birk A
+Spectral registration of noisy sonar data for underwater 3D mapping
+AUTONOMOUS ROBOTS. 2011 APR; 30 (3): 307-331
+LCR: 0   CR: 61   LCS: 14   GCS: 28   OCS:  
+
+7. 183 Celik T, Tjahjadi T
+A Novel Method for Sidescan Sonar Image Segmentation
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2011 APR; 36 (2): 186-194
+LCR: 0   CR: 15   LCS: 38   GCS: 44   OCS:  
+
+8. 191 Falk B, Williams T, Aytekin M, Moss CF
+Adaptive behavior for texture discrimination by the free-flying big brown bat, Eptesicus fuscus
+JOURNAL OF COMPARATIVE PHYSIOLOGY A-NEUROETHOLOGY SENSORY NEURAL AND BEHAVIORAL PHYSIOLOGY. 2011 MAY; 197 (5): 491-503
+LCR: 0   CR: 35   LCS: 9   GCS: 28   OCS:  
+
+9. 193 Brown CJ, Smith SJ, Lawton P, Anderson JT
+Benthic habitat mapping: A review of progress towards improved understanding of the spatial ecology of the seafloor using acoustic techniques
+ESTUARINE COASTAL AND SHELF SCIENCE. 2011 MAY 1; 92 (3): 502-520
+LCR: 2   CR: 230   LCS: 50   GCS: 361   OCS:  
+
+10. 199 Fandos R, Zoubir AM
+Optimal Feature Set for Automatic Detection and Classification of Underwater Objects in SAS Images
+IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING. 2011 JUN; 5 (3): 454-468
+LCR: 0   CR: 60   LCS: 21   GCS: 22   OCS:  
+
+11. 208 Bates ME, Simmons JA, Zorikov TV
+Bats Use Echo Harmonic Structure to Distinguish Their Targets from Background Clutter
+SCIENCE. 2011 JUL 29; 333 (6042): 627-630
+LCR: 1   CR: 26   LCS: 13   GCS: 75   OCS:  
+
+12. 213 Bates CR, Lawrence M, Dean M, Robertson P
+Geophysical Methods for Wreck-Site Monitoring: the Rapid Archaeological Site Surveying and Evaluation (RASSE) programme
+INTERNATIONAL JOURNAL OF NAUTICAL ARCHAEOLOGY. 2011 SEP; 40 (2): 404-416
+LCR: 0   CR: 14   LCS: 10   GCS: 24   OCS:  
+
+13. 217 Chailloux C, Le Caillec JM, Gueriot D, Zerr B
+Intensity-Based Block Matching Algorithm for Mosaicing Sonar Images
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2011 OCT; 36 (4): 627-645
+LCR: 0   CR: 45   LCS: 14   GCS: 22   OCS:  
+
+14. 218 Karabchevsky S, Kahana D, Ben-Harush O, Guterman H
+FPGA-Based Adaptive Speckle Suppression Filter for Underwater Imaging Sonar
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2011 OCT; 36 (4): 646-657
+LCR: 0   CR: 44   LCS: 12   GCS: 20   OCS:  
+
+15. 219 Chen P, Zheng YY, Zhu W
+Optimized Simulated Annealing Algorithm for Thinning and Weighting Large Planar Arrays in Both Far-Field and Near-Field
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2011 OCT; 36 (4): 658-664
+LCR: 0   CR: 21   LCS: 10   GCS: 25   OCS:  
+
+16. 223 Hansen RE, Callow HJ, Saebo TO, Synnes SAV
+Challenges in Seafloor Imaging and Mapping With Synthetic Aperture Sonar
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2011 OCT; 49 (10): 3677-3687
+LCR: 0   CR: 46   LCS: 42   GCS: 53   OCS:  
+
+17. 226 Kemna S, Hamilton MJ, Hughes DT, LePage KD
+Adaptive autonomous underwater vehicles for littoral surveillance The GLINT10 field trial results
+INTELLIGENT SERVICE ROBOTICS. 2011 OCT; 4 (4): 245-258
+LCR: 0   CR: 42   LCS: 9   GCS: 32   OCS:  
+
+18. 284 Hurtos N, Cuf' X, Petillot Y, Salvi J
+Fourier-based Registrations for Two-Dimensional Forward-Looking Sonar Image Mosaicing
+2012 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS). 2012; : 5298-5305
+LCR: 0   CR: 26   LCS: 32   GCS: 40   OCS:  
+
+19. 373 Couillard M, Fawcett J, Davison M
+Optimizing Constrained Search Patterns for Remote Mine-Hunting Vehicles
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2012 JAN; 37 (1): 75-84
+LCR: 0   CR: 17   LCS: 9   GCS: 20   OCS:  
+
+20. 390 Simmons JA
+Bats use a neuronally implemented computational acoustic model to form sonar images
+CURRENT OPINION IN NEUROBIOLOGY. 2012 APR; 22 (2): 311-319
+LCR: 3   CR: 45   LCS: 12   GCS: 36   OCS:  
+
+21. 404 Burguera A, Gonzalez Y, Oliver G
+The UspIC: Performing Scan Matching Localization Using an Imaging Sonar
+SENSORS. 2012 JUN; 12 (6): 7855-7885
+LCR: 0   CR: 41   LCS: 13   GCS: 23   OCS:  
+
+22. 406 Rakowitz G, Tuser M, Riha M, Juza T, Balk H, et al.
+Use of high-frequency imaging sonar (DIDSON) to observe fish behaviourtowards a surface trawl
+FISHERIES RESEARCH. 2012 JUL; 123: 37-48
+LCR: 0   CR: 32   LCS: 18   GCS: 49   OCS:  
+
+23. 407 Quidu I, Jaulin L, Bertholom A, Dupas Y
+Robust Multitarget Tracking in Forward-Looking Sonar Image Sequences Using Navigational Data
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2012 JUL; 37 (3): 417-430
+LCR: 0   CR: 27   LCS: 12   GCS: 16   OCS:  
+
+24. 408 Donovan GT
+Position Error Correction for an Autonomous Underwater Vehicle Inertial Navigation System (INS) Using a Particle Filter
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2012 JUL; 37 (3): 431-445
+LCR: 1   CR: 27   LCS: 10   GCS: 66   OCS:  
+
+25. 410 Kargl SG, Williams KL, Thorsos EI
+Synthetic Aperture Sonar Imaging of Simple Finite Targets
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2012 JUL; 37 (3): 516-532
+LCR: 0   CR: 29   LCS: 10   GCS: 13   OCS:  
+
+26. 416 Webster SE, Eustice RM, Singh H, Whitcomb LL
+Advances in single-beacon one-way-travel-time acoustic navigation for underwater vehicles
+INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH. 2012 JUL; 31 (8): 935-950
+LCR: 0   CR: 51   LCS: 10   GCS: 109   OCS:  
+
+27. 421 He B, Liang Y, Feng X, Nian R, Yan TH, et al.
+AUV SLAM and Experiments Using a Mechanical Scanning Forward-Looking Sonar
+SENSORS. 2012 JUL; 12 (7): 9386-9410
+LCR: 0   CR: 36   LCS: 9   GCS: 32   OCS:  
+
+28. 422 Handegard NO, Boswell KM, Ioannou CC, Leblanc SP, Tjostheim DB, et al.
+The Dynamics of Coordinated Group Hunting and Collective Information Transfer among Schooling Prey
+CURRENT BIOLOGY. 2012 JUL 10; 22 (13): 1213-1217
+LCR: 0   CR: 30   LCS: 14   GCS: 141   OCS:  
+
+29. 424 Langkau MC, Balk H, Schmidt MB, Borcherding J
+Can acoustic shadows identify fish species? A novel application of imaging sonar data
+FISHERIES MANAGEMENT AND ECOLOGY. 2012 AUG; 19 (4): 313-322
+LCR: 0   CR: 38   LCS: 22   GCS: 35   OCS:  
+
+30. 425 Wilken D, Feldens P, Wunderlich T, Heinrich C
+Application of 2D Fourier filtering for elimination of stripe noise in side-scan sonar mosaics
+GEO-MARINE LETTERS. 2012 AUG; 32 (4): 337-347
+LCR: 0   CR: 26   LCS: 9   GCS: 19   OCS:  
+
+31. 428 Brown CJ, Sameoto JA, Smith SJ
+Multiple methods, maps, and management applications: Purpose made seafloor maps in support of ocean management
+JOURNAL OF SEA RESEARCH. 2012 AUG; 72: 1-13
+LCR: 2   CR: 52   LCS: 11   GCS: 73   OCS:  
+
+32. 430 Yu SC, Teng Z, Kang DJ
+Modeling of High-Resolution 3D Sonar for Image Recognition
+INTERNATIONAL JOURNAL OF OFFSHORE AND POLAR ENGINEERING. 2012 SEP; 22 (3): 186-192
+LCR: 0   CR: 24   LCS: 9   GCS: 10   OCS:  
+
+33. 439 Hover FS, Eustice RM, Kim A, Englot B, Johannsson H, et al.
+Advanced perception, navigation and planning for autonomous in-water ship hull inspection
+INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH. 2012 OCT; 31 (12): 1445-1464
+LCR: 1   CR: 63   LCS: 35   GCS: 127   OCS:  
+
+34. 448 Hasan RC, Ierodiaconou D, Monk J
+Evaluation of Four Supervised Learning Methods for Benthic Habitat Mapping Using Backscatter from Multi-Beam Sonar
+REMOTE SENSING. 2012 NOV; 4 (11): 3427-3443
+LCR: 1   CR: 45   LCS: 14   GCS: 69   OCS:  
+
+35. 487 DeMarco KJ, West ME, Howard AM
+Sonar-Based Detection and Tracking of a Diver for Underwater Human-Robot Interaction Scenarios
+2013 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS (SMC 2013). 2013; : 2378-2383
+LCR: 1   CR: 12   LCS: 13   GCS: 28   OCS:  
+
+36. 620 Lyons AP, Brown DC
+The Impact of the Temporal Variability of Seafloor Roughness on Synthetic Aperture Sonar Repeat-Pass Interferometry
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2013 JAN; 38 (1): 91-97
+LCR: 0   CR: 12   LCS: 13   GCS: 15   OCS:  
+
+37. 633 Lucieer V, Hill NA, Barrett NS, Nichol S
+Do marine substrates 'look' and 'sound' the same? Supervised classification of multibeam acoustic data using autonomous underwater vehicle images
+ESTUARINE COASTAL AND SHELF SCIENCE. 2013 JAN 20; 117: 94-106
+LCR: 2   CR: 55   LCS: 19   GCS: 84   OCS:  
+
+38. 646 Blomberg AEA, Austeng A, Hansen RE, Synnes SAV
+Improving Sonar Performance in Shallow Water Using Adaptive Beamforming
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2013 APR; 38 (2): 297-307
+LCR: 1   CR: 36   LCS: 12   GCS: 24   OCS:  
+
+39. 662 Kaeser AJ, Litts TL, Tracy TW
+USING LOW-COST SIDE-SCAN SONAR FOR BENTHIC MAPPING THROUGHOUT THE LOWER FLINT RIVER, GEORGIA, USA
+RIVER RESEARCH AND APPLICATIONS. 2013 JUN; 29 (5): 634-644
+LCR: 0   CR: 33   LCS: 19   GCS: 46   OCS:  
+
+40. 668 Fallon MF, Folkesson J, McClelland H, Leonard JJ
+Relocating Underwater Features Autonomously Using Sonar-Based SLAM
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2013 JUL; 38 (3): 500-513
+LCR: 1   CR: 29   LCS: 19   GCS: 54   OCS:  
+
+41. 669 Aykin MD, Negahdaripour S
+On Feature Matching and Image Registration for Two-dimensionalForward-scan Sonar Imaging
+JOURNAL OF FIELD ROBOTICS. 2013 JUL-AUG; 30 (4): 602-623
+LCR: 4   CR: 43   LCS: 29   GCS: 33   OCS:  
+
+42. 676 Saebo TO, Synnes SAV, Hansen RE
+Wideband Interferometry in Synthetic Aperture Sonar
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2013 AUG; 51 (8): 4450-4459
+LCR: 1   CR: 45   LCS: 14   GCS: 17   OCS:  
+
+43. 677 Negahdaripour S
+On 3-D Motion Estimation From Feature Tracks in 2-D FS Sonar Video
+IEEE TRANSACTIONS ON ROBOTICS. 2013 AUG; 29 (4): 1016-1030
+LCR: 2   CR: 45   LCS: 18   GCS: 19   OCS:  
+
+44. 689 Hansen RE
+Synthetic Aperture Sonar Technology Review
+MARINE TECHNOLOGY SOCIETY JOURNAL. 2013 SEP-OCT; 47 (5): 117-127
+LCR: 2   CR: 51   LCS: 10   GCS: 14   OCS:  
+
+45. 747 Hurtos N, Nagappa S, Palomeras N, Salvi J
+Real-Time Mosaicing with Two-Dimensional Forward-Looking Sonar
+2014 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA). 2014; : 601-606
+LCR: 2   CR: 17   LCS: 9   GCS: 12   OCS:  
+
+46. 866 Paull L, Saeedi S, Seto M, Li H
+AUV Navigation and Localization: A Review
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2014 JAN; 39 (1): 131-149
+LCR: 8   CR: 147   LCS: 67   GCS: 602   OCS:  
+
+47. 878 Mallios A, Ridao P, Ribas D, Hernandez E
+Scan matching SLAM in underwater environments
+AUTONOMOUS ROBOTS. 2014 MAR; 36 (3): 181-198
+LCR: 2   CR: 54   LCS: 12   GCS: 41   OCS:  
+
+48. 888 Grote AB, Bailey MM, Zydlewski JD, Hightower JE
+Multibeam sonar (DIDSON) assessment of American shad (Alosa sapidissima) approaching a hydroelectric dam
+CANADIAN JOURNAL OF FISHERIES AND AQUATIC SCIENCES. 2014 APR; 71 (4): 545-558
+LCR: 2   CR: 62   LCS: 10   GCS: 22   OCS:  
+
+49. 897 Fandos R, Zoubir AM, Siantidis K
+Unified Design of a Feature-Based ADAC System for Mine Hunting Using Synthetic Aperture Sonar
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2014 MAY; 52 (5): 2413-2426
+LCR: 3   CR: 67   LCS: 11   GCS: 18   OCS:  
+
+50. 918 Petreman IC, Jones NE, Milne SW
+Observer bias and subsampling efficiencies for estimating the number of migrating fish in rivers using Dual-frequency IDentification SONar(DIDSON)
+FISHERIES RESEARCH. 2014 JUL; 155: 160-167
+LCR: 1   CR: 17   LCS: 10   GCS: 20   OCS:  
+
+51. 921 Zhang XB, Tang JS, Zhong HP
+Multireceiver Correction for the Chirp Scaling Algorithm in Synthetic Aperture Sonar
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2014 JUL; 39 (3): 472-481
+LCR: 0   CR: 19   LCS: 29   GCS: 33   OCS:  
+
+52. 933 Diesing M, Green SL, Stephens D, Lark RM, Stewart HA, et al.
+Mapping seabed sediments: Comparison of manual, geostatistical, object-based image analysis and machine learning approaches
+CONTINENTAL SHELF RESEARCH. 2014 AUG 1; 84: 107-119
+LCR: 6   CR: 75   LCS: 21   GCS: 117   OCS:  
+
+53. 943 Han YQ, Tian X, Zhou F, Jiang RX, Chen YW
+A Real-Time 3-D Underwater Acoustical Imaging System
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2014 OCT; 39 (4): 620-629
+LCR: 1   CR: 22   LCS: 10   GCS: 14   OCS:  
+
+54. 944 Williams DP, Fakiris E
+Exploiting Environmental Information for Improved Underwater Target Classification in Sonar Imagery
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2014 OCT; 52 (10): 6284-6297
+LCR: 4   CR: 40   LCS: 25   GCS: 39   OCS:  
+
+55. 1039 Huang TA, Kaess M
+Towards Acoustic Structure from Motion for Imaging Sonar
+2015 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS). 2015; : 758-765
+LCR: 3   CR: 14   LCS: 24   GCS: 26   OCS:  
+
+56. 1206 Powers J, Brewer SK, Long JM, Campbell T
+Evaluating the use of side-scan sonar for detecting freshwater mussel beds in turbid river environments
+HYDROBIOLOGIA. 2015 JAN; 743 (1): 127-137
+LCR: 0   CR: 50   LCS: 9   GCS: 17   OCS:  
+
+57. 1207 Barngrover C, Kastner R, Belongie S
+Semisynthetic Versus Real-World Sonar Training Data for the Classification of Mine-Like Objects
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2015 JAN; 40 (1): 48-56
+LCR: 1   CR: 21   LCS: 10   GCS: 16   OCS:  
+
+58. 1209 Williams DP
+Fast Target Detection in Synthetic Aperture Sonar Imagery: A New Algorithm and Large-Scale Performance Analysis
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2015 JAN; 40 (1): 71-92
+LCR: 4   CR: 42   LCS: 30   GCS: 36   OCS:  
+
+59. 1215 Hurtos N, Ribas D, Cufi X, Petillot Y, Salvi J
+Fourier-based Registration for Robust Forward-looking Sonar Mosaicing in Low-visibility Underwater Environments
+JOURNAL OF FIELD ROBOTICS. 2015 JAN; 32 (1): 123-151
+LCR: 4   CR: 59   LCS: 42   GCS: 59   OCS:  
+
+60. 1232 Cho H, Gu J, Joe H, Asada A, Yu SC
+Acoustic beam profile-based rapid underwater object detection for an imaging sonar
+JOURNAL OF MARINE SCIENCE AND TECHNOLOGY. 2015 MAR; 20 (1): 180-197
+LCR: 1   CR: 18   LCS: 20   GCS: 31   OCS:  
+
+61. 1249 Mishne G, Talmon R, Cohen I
+Graph-Based Supervised Automatic Target Detection
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2015 MAY; 53 (5): 2738-2754
+LCR: 1   CR: 40   LCS: 9   GCS: 22   OCS:  
+
+62. 1261 Acosta GG, Villar SA
+Accumulated CA-CFAR Process in 2-D for Online Object Detection From Sidescan Sonar Data
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2015 JUL; 40 (3): 558-569
+LCR: 1   CR: 46   LCS: 18   GCS: 28   OCS:  
+
+63. 1265 Kargl SG, Espana AL, Williams KL, Kennedy JL, Lopes JL
+Scattering From Objects at a Water-Sediment Interface: Experiment, High-Speed and High-Fidelity Models, and Physical Insight
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2015 JUL; 40 (3): 632-642
+LCR: 2   CR: 17   LCS: 10   GCS: 19   OCS:  
+
+64. 1272 Karoui I, Quidu I, Legris M
+Automatic Sea-Surface Obstacle Detection and Tracking in Forward-Looking Sonar Image Sequences
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2015 AUG; 53 (8): 4661-4669
+LCR: 1   CR: 22   LCS: 13   GCS: 20   OCS:  
+
+65. 1278 Cho H, Yu SC
+Real-time sonar image enhancement for AUV-based acoustic vision
+OCEAN ENGINEERING. 2015 AUG 1; 104: 568-579
+LCR: 2   CR: 24   LCS: 11   GCS: 12   OCS:  
+
+66. 1280 Martignac F, Daroux A, Bagliniere JL, Ombredane D, Guillard J
+The use of acoustic cameras in shallow waters: new hydroacoustic toolsfor monitoring migratory fish population. A review of DIDSON technology
+FISH AND FISHERIES. 2015 SEP; 16 (3): 486-510
+LCR: 3   CR: 158   LCS: 25   GCS: 59   OCS:  
+
+67. 1295 Galceran E, Campos R, Palomeras N, Ribas D, Carreras M, et al.
+Coverage Path Planning with Real-time Replanning and Surface Reconstruction for Inspection of Three-dimensional Underwater Structures using Autonomous Underwater Vehicles
+JOURNAL OF FIELD ROBOTICS. 2015 OCT; 32 (7): 952-983
+LCR: 3   CR: 94   LCS: 10   GCS: 56   OCS:  
+
+68. 1300 Williams DP
+Fast Unsupervised Seafloor Characterization in Sonar Imagery Using Lacunarity
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2015 NOV; 53 (11): 6022-6034
+LCR: 2   CR: 35   LCS: 21   GCS: 26   OCS:  
+
+69. 1339 Williams DP
+Underwater Target Classification in Synthetic Aperture Sonar Imagery Using Deep Convolutional Neural Networks
+2016 23RD INTERNATIONAL CONFERENCE ON PATTERN RECOGNITION (ICPR). 2016; : 2497-2502
+LCR: 2   CR: 14   LCS: 24   GCS: 30   OCS:  
+
+70. 1363 Williams DP, Baralli F, Micheli M, Vasoli S
+Adaptive Underwater Sonar Surveys in the Presence of Strong Currents
+2016 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA). 2016; : 2604-2611
+LCR: 4   CR: 21   LCS: 12   GCS: 20   OCS:  
+
+71. 1380 Kim J, Yu SC
+Convolutional Neural Network-based Real-time ROV Detection UsingForward-looking Sonar Image
+2016 IEEE/OES AUTONOMOUS UNDERWATER VEHICLES (AUV). 2016; : 396-400
+LCR: 1   CR: 22   LCS: 18   GCS: 25   OCS:  
+
+72. 1411 Huang TA, Kaess M
+Incremental Data Association for Acoustic Structure from Motion
+2016 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS 2016). 2016; : 1334-1341
+LCR: 4   CR: 12   LCS: 11   GCS: 12   OCS:  
+
+73. 1412 Teixeira PV, Kaess M, Hover FS, Leonard JJ
+Underwater Inspection using Sonar-based Volumetric Submaps
+2016 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS 2016). 2016; : 4288-4295
+LCR: 0   CR: 21   LCS: 13   GCS: 23   OCS:  
+
+74. 1594 Barngrover C, Althoff A, DeGuzman P, Kastner R
+A Brain-Computer Interface (BCI) for the Detection of Mine-Like Objectsin Sidescan Sonar Imagery
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2016 JAN; 41 (1): 123-138
+LCR: 2   CR: 24   LCS: 14   GCS: 26   OCS:  
+
+75. 1597 Tian Z, Tang JS, Zhong HP, Zhang S
+Extended Range Doppler Algorithm for Multiple-Receiver Synthetic Aperture Sonar Based on Exact Analytical Two-Dimensional Spectrum
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2016 JAN; 41 (1): 164-174
+LCR: 1   CR: 28   LCS: 9   GCS: 9   OCS:  
+
+76. 1604 Cho H, Gu J, Yu SC
+Robust Sonar-Based Underwater Object Recognition Against Angle-of-View Variation
+IEEE SENSORS JOURNAL. 2016 FEB; 16 (4): 1013-1025
+LCR: 3   CR: 26   LCS: 12   GCS: 16   OCS:  
+
+77. 1614 Gavazzi GM, Madricardo F, Janowski L, Kruss A, Blondel P, et al.
+Evaluation of seabed mapping methods for fine-scale classification of extremely shallow benthic habitats - Application to the Venice Lagoon, Italy
+ESTUARINE COASTAL AND SHELF SCIENCE. 2016 MAR 5; 170: 45-60
+LCR: 3   CR: 78   LCS: 17   GCS: 51   OCS:  
+
+78. 1650 Aykin MD, Negahdaripour SS
+Modeling 2-D Lens-Based Forward-Scan Sonar Imagery for Targets With Diffuse Reflectance
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2016 JUL; 41 (3): 569-582
+LCR: 1   CR: 44   LCS: 9   GCS: 10   OCS:  
+
+79. 1671 Lecours V, Dolan MFJ, Micallef A, Lucieer VL
+A review of marine geomorphometry, the quantitative study of the seafloor
+HYDROLOGY AND EARTH SYSTEM SCIENCES. 2016 AUG 9; 20 (8): 3207-3244
+LCR: 8   CR: 374   LCS: 10   GCS: 105   OCS:  
+
+80. 1692 Hunter AJ, Dugelay S, Fox WLJ
+Repeat-Pass Synthetic Aperture Sonar Micronavigation Using Redundant Phase Center Arrays
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2016 OCT; 41 (4): 820-830
+LCR: 2   CR: 26   LCS: 12   GCS: 13   OCS:  
+
+81. 1695 Mallios A, Ridao P, Ribas D, Carreras M, Camilli R
+Toward Autonomous Exploration in Confined Underwater Environments
+JOURNAL OF FIELD ROBOTICS. 2016 OCT; 33 (7): 994-1012
+LCR: 2   CR: 64   LCS: 19   GCS: 42   OCS:  
+
+82. 1702 Diesing M, Mitchell P, Stephens D
+Image-based seabed classification: what can we learn from terrestrial remote sensing?
+ICES JOURNAL OF MARINE SCIENCE. 2016 NOV; 73 (10): 2425-2441
+LCR: 6   CR: 127   LCS: 13   GCS: 51   OCS:  
+
+83. 1708 Wang XM, Guo LX, Yin JW, Liu ZP, Han X
+Narrowband Chan-Vese model of sonar image segmentation: A adaptive ladder initialization approach
+APPLIED ACOUSTICS. 2016 DEC; 113: 238-254
+LCR: 0   CR: 33   LCS: 10   GCS: 13   OCS:  
+
+84. 1930 Buscombe D
+Shallow water benthic imaging and substrate characterization using recreational-grade sidescan-sonar
+ENVIRONMENTAL MODELLING & SOFTWARE. 2017 MAR; 89: 1-18
+LCR: 5   CR: 76   LCS: 11   GCS: 27   OCS:  
+
+85. 1947 Huo GY, Yang SX, Li QW, Zhou Y
+A Robust and Fast Method for Sidescan Sonar Image Segmentation Using Nonlocal Despeckling and Active Contour Model
+IEEE TRANSACTIONS ON CYBERNETICS. 2017 APR; 47 (4): 855-872
+LCR: 2   CR: 43   LCS: 19   GCS: 32   OCS:  
+
+86. 1964 Zhang XB, Huang H, Ying WW, Wang HK, Xiao J
+An Indirect Range-Doppler Algorithm for Multireceiver Synthetic Aperture Sonar Based on Lagrange Inversion Theorem
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2017 JUN; 55 (6): 3572-3587
+LCR: 1   CR: 40   LCS: 10   GCS: 16   OCS:  
+
+87. 1971 Herkul K, Peterson A, Paekivi S
+Applying multibeam sonar and mathematical modeling for mapping seabed substrate and biota of offshore shallows
+ESTUARINE COASTAL AND SHELF SCIENCE. 2017 JUN 5; 192: 57-71
+LCR: 4   CR: 41   LCS: 9   GCS: 16   OCS:  
+
+88. 1976 Shahrestani S, Bi HS, Lyubchich V, Boswell KM
+Detecting a nearshore fish parade using the adaptive resolution imaging sonar (ARIS): An automated procedure for data analysis
+FISHERIES RESEARCH. 2017 JUL; 191: 190-199
+LCR: 2   CR: 33   LCS: 11   GCS: 14   OCS:  
+
+89. 1977 Aykin MD, Negahdaripour S
+Three-Dimensional Target Reconstruction From Multiple 2-D Forward-Scan Sonar Views by Space Carving
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2017 JUL; 42 (3): 574-589
+LCR: 1   CR: 23   LCS: 16   GCS: 17   OCS:  
+
+90. 1979 Zhao JH, Wang X, Zhang HM, Wang AX
+A Comprehensive Bottom-Tracking Method for Sidescan Sonar Image Influenced by Complicated Measuring Environment
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2017 JUL; 42 (3): 619-631
+LCR: 0   CR: 15   LCS: 10   GCS: 11   OCS:  
+
+91. 2021 Wang VT, Hayes MP
+Synthetic Aperture Sonar Track Registration Using SIFT Image Correspondences
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2017 OCT; 42 (4): 901-913
+LCR: 2   CR: 57   LCS: 11   GCS: 25   OCS:  
+
+92. 2037 Cerqueira R, Trocoli T, Neves G, Joyeux S, Albiez J, et al.
+A novel GPU-based sonar simulator for real-time applications
+COMPUTERS & GRAPHICS-UK. 2017 NOV; 68: 66-76
+LCR: 3   CR: 24   LCS: 13   GCS: 16   OCS:  
+
+93. 2078 Kim J, Sung M, Yu SC
+Development of Simulator for Autonomous Underwater Vehicles utilizing Underwater Acoustic and Optical Sensing Emulators
+2018 18TH INTERNATIONAL CONFERENCE ON CONTROL, AUTOMATION AND SYSTEMS (ICCAS). 2018; : 416-419
+LCR: 0   CR: 10   LCS: 10   GCS: 12   OCS:  
+
+94. 2288 Odegard O, Hansen RE, Singh H, Maarleveld TJ
+Archaeological use of Synthetic Aperture Sonar on deepwater wreck sitesin Skagerrak
+JOURNAL OF ARCHAEOLOGICAL SCIENCE. 2018 JAN; 89: 1-13
+LCR: 6   CR: 53   LCS: 9   GCS: 15   OCS:  
+
+95. 2305 Williams DP
+The Mondrian Detection Algorithm for Sonar Imagery
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 2018 FEB; 56 (2): 1091-1102
+LCR: 8   CR: 28   LCS: 16   GCS: 19   OCS:  
+
+96. 2354 Ierodiaconou D, Schimel ACG, Kennedy D, Monk J, Gaylard G, et al.
+Combining pixel and object based image analysis of ultra-high resolution multibeam bathymetry and backscatter for habitat mapping in shallow marine waters
+MARINE GEOPHYSICAL RESEARCH. 2018 JUN; 39 (1-2): 271-288
+LCR: 10   CR: 68   LCS: 14   GCS: 44   OCS:  
+
+97. 2370 Li J, Kaess M, Eustice RM, Johnson-Roberson M
+Pose-Graph SLAM Using Forward-Looking Sonar
+IEEE ROBOTICS AND AUTOMATION LETTERS. 2018 JUL; 3 (3): 2330-2337
+LCR: 5   CR: 25   LCS: 14   GCS: 26   OCS:  
+
+98. 2403 Guerneve T, Subr K, Petillot Y
+Three-dimensional reconstruction of underwater objects using wide-aperture imaging SONAR
+JOURNAL OF FIELD ROBOTICS. 2018 SEP; 35 (6): 890-905
+LCR: 8   CR: 32   LCS: 13   GCS: 16   OCS:  
+
+99. 2412 Cho H, Kim B, Yu SC
+AUV-Based Underwater 3-D Point Cloud Generation Using Acoustic Lens-Based Multibeam Sonar
+IEEE JOURNAL OF OCEANIC ENGINEERING. 2018 OCT; 43 (4): 856-872
+LCR: 11   CR: 50   LCS: 12   GCS: 18   OCS:  
+
+100. 2818 Ahu A, Diamant R
+A Statistically-Based Method for the Detection of Underwater Objects in Sonar Imagery
+IEEE SENSORS JOURNAL. 2019 AUG 15; 19 (16): 6858-6871
+LCR: 12   CR: 42   LCS: 10   GCS: 12   OCS:  

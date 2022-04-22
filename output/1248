@@ -1,0 +1,5 @@
+Graph-Based Supervised Automatic Target Detection
+2015
+G. Mishne, R. Talmon and I. Cohen
+DLË®À×Ì½²â
+In this paper, we propose a detection method based on data-driven target modeling, which implicitly handles variations in the target appearance. Given a training set of images of the target, our approach constructs models based on local neighborhoods within the training set. We present a new metric using these models and show that, by controlling the notion of locality within the training set, this metric is invariant to perturbations in the appearance of the target. Using this metric in a supervised graph framework, we construct a low-dimensional embedding of test images. Then, a detection score based on the embedding determines the presence of a target in each image. The method is applied to a data set of side-scan sonar images and achieves impressive results in the detection of sea mines. The proposed framework is general and can be applied to different target detection problems in a broad range of signals.

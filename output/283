@@ -1,0 +1,5 @@
+Fourier-based Registrations for Two-Dimensional Forward-Looking Sonar Image Mosaicing
+
+N. Hurtos, X. Cuf, Y. Petillot and J. Salvi
+FLSÅä×¼
+This paper presents a method to build large-scale mosaics adapted to underwater sonar imagery. By assuming a simplified imaging model, we propose to address the registrations between images using Fourier-based methods which, unlike feature-based methods, prove well suited to handle the characteristics of forward-looking sonar images, such as low resolution, noise, occlusions and moving shadows. The registration between spatially and temporally distant images resulting from loop-closing situations or registrations in featureless areas are feasible, overcoming the main difficulties of feature-based methods. The problem is cast as a pose-based graph optimization, taking into account the uncertainties of the pairwise registrations and being able to incorporate navigation information. After the optimization, a consistent mosaic from different tracklines is generated with increased resolution and higher signal-to-noise ratio than the original images, while the vehicle motion in x,y and heading is also estimated.

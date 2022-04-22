@@ -1,0 +1,5 @@
+AUV Navigation and Localization: A Review
+2014
+L. Paull, S. Saeedi, M. Seto and H. Li
+×ÛÊöAUVµ¼º½¶¨Î»
+Autonomous underwater vehicle (AUV) navigation and localization in underwater environments is particularly challenging due to the rapid attenuation of Global Positioning System (GPS) and radio-frequency signals. Underwater communications are low bandwidth and unreliable, and there is no access to a global positioning system. Past approaches to solve the AUV localization problem have employed expensive inertial sensors, used installed beacons in the region of interest, or required periodic surfacing of the AUV. While these methods are useful, their performance is fundamentally limited. Advances in underwater communications and the application of simultaneous localization and mapping (SLAM) technology to the underwater realm have yielded new possibilities in the field. This paper presents a review of the state of the art of AUV navigation and localization, as well as a description of some of the more commonly used methods. In addition, we highlight areas of future research potential.

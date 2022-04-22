@@ -1,0 +1,5 @@
+Pose-Graph SLAM Using Forward-Looking Sonar
+2018
+J. Li, M. Kaess, R. M. Eustice and M. Johnson-Roberson
+FLSË®ÏÂSLAM
+This letter reports on a real-time simultaneous localization and mapping (SLAM) algorithm for an underwater robot using an imaging forward-looking sonar and its application in the area of autonomous underwater ship hull inspection. The proposed algorithm overcomes specific challenges associated with deliverable underwater acoustic SLAM, including feature sparsity and false-positive data association when utilizing sonar imagery. An advanced machine learning technique is used to provide saliencyaware loop closure proposals. A more reliable data association approach using different available constraints is also developed. Our evaluation is presented on the real-world data collected in a ship hull inspection application, which illustrates the system's performance and robustness.

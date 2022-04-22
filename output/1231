@@ -1,0 +1,5 @@
+Acoustic beam profile-based rapid underwater object detection for an imaging sonar
+2015
+H. Cho, J. Gu, H. Joe, A. Asada and S. C. Yu
+FLS水下结构定位
+In sonar applications, the ability to locate underwater structures such as pipelines and a wreckage of submerged airplane is important. To investigate extensive sections of the seabed within a limited time period, the scanning speed and the reliability of object detection alarms are the most critical factors for finding objects. In this paper, we propose a method to provide an automatic detection alarm indicating the presence of suspected underwater objects using high-speed imaging sonar. The proposed method is based on the cross-correlations between two successive acoustic beam profiles of imaging sonar. The alarm signal alerts human operators or automatic underwater vehicles to suspected objects, which may be a part of or all of the target object. Using this signal as a trigger, the object can then be examined in more detail to determine whether it is the target. We verified the feasibility of the proposed method by indoor and field experiments.

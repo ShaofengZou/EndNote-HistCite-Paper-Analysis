@@ -1,0 +1,5 @@
+Multireceiver Correction for the Chirp Scaling Algorithm in Synthetic Aperture Sonar
+2014
+X. B. Zhang, J. S. Tang and H. P. Zhong
+SAS³ÉÏñ¸Ä½ø
+The phase center approximation (PCA) and the motion of the receiver array during reception are twomain conditions that must be solved to use fast-Fourier-based imaging techniques in multireceiver synthetic aperture sonar (SAS). The former issue affects focusing results at close range while the latter one influences imaging performances in far distance. The processing result is that the uncompensated phase errors, introduced by those two issues, would degrade SAS imaging quality seriously. Through the analysis of outgoing and incoming acoustic paths, this paper derives an improved PCA method, considering the influence under those two approximations, describes the residual effects of narrow-beam approximations for PCA and "stop-and-hop"(S&H) errors in 2-D space domain, and presents imagery processed with chirp scaling (CS) algorithm. Based on the simulation and lake-trial results, the new processingmethod provides image quality better than conventional algorithms.

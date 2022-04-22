@@ -1,0 +1,5 @@
+Application of 2D Fourier filtering for elimination of stripe noise in side-scan sonar mosaics
+2012
+D. Wilken, P. Feldens, T. Wunderlich and C. Heinrich
+SSSÃıŒ∆»•‘Î
+Different types of along-track stripe noise are common artifacts in side-scan sonar mosaics, hampering both visual image quality and automatic seabed classification attempts. In this study, a 2D Fourier domain slope filter is applied to remove stripes from side-scan sonar mosaics. This technique has the advantage of using only two simple tuning parameters, namely, the slope angle of the stripe noise, and a filtering width. Furthermore, the image processing tool presented here can be applied to non-optimally processed side-scan mosaics without the need of reprocessing the original data. The performance of the filter technique is demonstrated by two datasets in which stripe noise, including nadir stripes, has been successfully removed. To one of the filtered dataset a simple unsupervised seabed classification was then applied, leading to a much improved result with only little misclassification due to residual stripe noise.

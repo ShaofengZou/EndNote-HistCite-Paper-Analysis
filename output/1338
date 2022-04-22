@@ -1,0 +1,5 @@
+Underwater Target Classification in Synthetic Aperture Sonar Imagery Using Deep Convolutional Neural Networks
+
+D. P. Williams
+SAS目标分类
+Deep convolutional neural networks are used to perform underwater target classification in synthetic aperture sonar (SAS) imagery. The deep networks are learned using a massive database of real, measured sonar data collected at sea during different expeditions in various geographical locations. A novel training procedure is developed specially for the data from this new sensor modality in order to augment the amount of training data available for learning and to avoid overfitting. The deep networks learned are employed for several binary classification tasks in which different classes of objects in real sonar data are to be discriminated. The proposed deep approach consistently achieves superior performance to a traditional feature-based classifier that we had relied on previously.

@@ -1,0 +1,5 @@
+Optimized Simulated Annealing Algorithm for Thinning and Weighting Large Planar Arrays in Both Far-Field and Near-Field
+2011
+P. Chen, Y. Y. Zheng and W. Zhu
+3D≥…œÒ”≈ªØ
+In this paper, an optimized simulated annealing algorithm is proposed for thinning and weighting large planar arrays in both far-field and near-field of underwater 3-D sonar imaging systems. This optimized algorithm is designed for the large planar array with a fixed sidelobe peak and a fixed current taper ratio under a narrowband excitation. It applies the approximation for time delay in the near-field beam pattern, and extends the simulated annealing algorithm to both far-field and near-field by defining a new "energy" function. One example of large planar array was used to evaluate the accuracy and efficiency of the optimized method.

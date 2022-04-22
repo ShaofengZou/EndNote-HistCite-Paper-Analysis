@@ -1,0 +1,5 @@
+Real-time sonar image enhancement for AUV-based acoustic vision
+2015
+H. Cho and S. C. Yu
+FLS»•∞ﬂµ„‘Î…˘
+Sonar imaging is considered the only feasible sensing solution for underwater investigations by autonomous underwater vehicles (AUVs) in zero-visibility water conditions. State-of-the-art forward-looking imaging sonars can acquire high resolution images at high frame rates, making the acquired images nearly similar to video images acquired using optical cameras. However, the sonar images are corrupted with speckle noise. In this paper, a speckle noise reduction algorithm is proposed for AUV operation. Unlike the conventional algorithms, the proposed algorithm is adequate for real-time treatment. In order to evaluate the performance of the proposed algorithm, an experiment was conducted by using a forward-looking imaging sonar. Based on the experimental results, it was confirmed that the proposed algorithm can effectively reduce the noise. (C) 2015 Elsevier Ltd. All rights reserved.

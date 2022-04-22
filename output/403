@@ -1,0 +1,5 @@
+The UspIC: Performing Scan Matching Localization Using an Imaging Sonar
+2012
+A. Burguera, Y. Gonzalez and G. Oliver
+MSIS¼ì²â¶¨Î»UUV
+This paper presents a novel approach to localize an underwater mobile robot based on scan matching using a Mechanically Scanned Imaging Sonar (MSIS). When used to perform scan matching, this sensor presents some problems such as significant uncertainty in the measurements or large scan times, which lead to a motion induced distortion. This paper presents the uspIC, which deals with these problems by adopting a probabilistic scan matching strategy and by defining a method to strongly alleviate the motion induced distortion. Experimental results evaluating our approach and comparing it to previously existing methods are provided.

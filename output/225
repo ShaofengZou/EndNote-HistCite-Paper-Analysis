@@ -1,0 +1,5 @@
+Adaptive autonomous underwater vehicles for littoral surveillance The GLINT10 field trial results
+2011
+S. Kemna, M. J. Hamilton, D. T. Hughes and K. D. LePage
+ AUVË®ÏÂ¼à¿Ø
+Autonomous underwater vehicles (AUVs) have gained more interest in recent years for military as well as civilian applications. One potential application of AUVs is for the purpose of undersea surveillance. As research into undersea surveillance using AUVs progresses, issues arise as to how an AUV acquires, acts on, and shares information about the undersea battle space. These issues naturally touch on aspects of vehicle autonomy and underwater communications, and need to be resolved through a spiral development process that includes at sea experimentation. This paper presents a recent AUV implementation for active anti-submarine warfare tested at sea in the summer of 2010. On-board signal processing capabilities and an adaptive behavior are discussed in both a simulation and experimental context. The implications for underwater surveillance using AUVs are discussed.

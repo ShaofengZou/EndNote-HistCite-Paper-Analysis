@@ -1,0 +1,5 @@
+Scan matching SLAM in underwater environments
+2014
+A. Mallios, P. Ridao, D. Ribas and E. Hernandez
+AUVË®ÏÂSLAM
+This paper proposes a pose-based algorithm to solve the full simultaneous localization and mapping problem for autonomous underwater vehicle (AUV) navigating in unknown and possibly unstructured environments. The proposed method first estimates the local path traveled by the robot while forming the acoustic image (scan) with range data coming from a mono-beam rotating sonar head, providing position estimates for correcting the distortions that the vehicle motion produces in the scans. Then, consecutive scans are cross-registered under a probabilistic scan matching technique for estimating the displacements of the vehicle including the uncertainty of the scan matching result. Finally, an augmented state extended Kalman filter estimates and keeps the registered scans poses. No prior structural information or initial pose are considered. The viability of the proposed approach has been tested reconstructing the trajectory of a guided AUV operating along a 600 m path within a marina environment.

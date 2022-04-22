@@ -1,0 +1,5 @@
+Toward Autonomous Exploration in Confined Underwater Environments
+2016
+A. Mallios, P. Ridao, D. Ribas, M. Carreras and R. Camilli
+AUVË®ÏÂSLAM
+In this field note, we detail the operations and discuss the results of an experiment conducted in the unstructured environment of an underwater cave complex using an autonomous underwater vehicle (AUV). For this experiment, the AUV was equipped with two acoustic sonar sensors to simultaneously map the caves' horizontal and vertical surfaces. Although the caves' spatial complexity required AUV guidance by a diver, this field deployment successfully demonstrates a scan-matching algorithm in a simultaneous localization and mapping framework that significantly reduces and bounds the localization error for fully autonomous navigation. These methods are generalizable for AUV exploration in confined underwater environments where surfacing or predeployment of localization equipment is not feasible, and they may provide a useful step toward AUV utilization as a response tool in confined underwater disaster areas. (C) 2015 Wiley Periodicals, Inc.

@@ -1,0 +1,5 @@
+A Novel Method for Sidescan Sonar Image Segmentation
+2011
+T. Celik and T. Tjahjadi
+≤‡…®∑÷∏Ó
+In this paper, we propose a novel unsupervised algorithm for segmenting sidescan sonar images of seafloor. The proposed algorithm does not make any a priori assumption on the nature of the input sidescan sonar image. The algorithm first constructs a multiresolution representation of the input image using the forward and inverse undecimated discrete wavelet transform (UDWT). A feature vector is then extracted for each pixel using both intra-resolution and inter-resolution data. The dimensionality of each feature vector is reduced using principal component analysis (PCA). The feature vectors are then clustered into disjoint clusters using k-means clustering. The number of clusters is estimated automatically. Experimental results on real sonar images confirm the effectiveness of the proposed algorithm.

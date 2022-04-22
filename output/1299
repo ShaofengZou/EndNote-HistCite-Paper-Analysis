@@ -1,0 +1,5 @@
+Fast Unsupervised Seafloor Characterization in Sonar Imagery Using Lacunarity
+2015
+D. P. Williams
+SAS无监督特征提取
+A new unsupervised approach for characterizing seafloor in side-looking sonar imagery is proposed. The approach is based on lacunarity, which measures the pixel-intensity variation, of through-the-sensor data. No training data are required, no assumptions regarding the statistical distributions of the pixels are made, and the universe of (discrete) seafloor types need not be enumerated or known. It is shown how lacunarity can be computed very quickly using integral-image representations, thereby making real-time seafloor assessments on-board an autonomous underwater vehicle feasible. The promise of the approach is demonstrated on high-resolution synthetic-aperture-sonar imagery of diverse seafloor conditions measured at various geographical sites. Specifically, it is shown how lacunarity can effectively distinguish different seafloor conditions and how this fact can be exploited for target-detection performance prediction in mine-countermeasure operations.

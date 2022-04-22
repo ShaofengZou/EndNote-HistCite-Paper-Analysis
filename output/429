@@ -1,0 +1,5 @@
+Modeling of High-Resolution 3D Sonar for Image Recognition
+2012
+S. C. Yu, Z. Teng and D. J. Kang
+3D物体建模和检测
+Automated underwater 3D sonar image recognition has great potential to simplify many underwater tasks. Sonar modeling is necessary to recognize 3D object images. We propose a 3D sonar model that can predict what an object is based on by recognizing similarities to objects that pre-exist in a database. The sonar's displaying mechanism and characteristics of the 3D sonar image are studied. Due to the nature of acoustics, a sonar image is not necessarily always an accurate depiction of an object. The proposed model enables mapping of a 3D world onto a 2D sonar screen. This modeling framework enables the implementation of various optical vision techniques for recognition. Recognition experiments were conducted to evaluate the model's accuracy.

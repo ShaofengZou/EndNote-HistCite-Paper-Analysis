@@ -1,0 +1,5 @@
+Optimal Feature Set for Automatic Detection and Classification of Underwater Objects in SAS Images
+2011
+R. Fandos and A. M. Zoubir
+SAS水雷检测和分类
+The problem of automatic detection and classification for mine hunting applications is addressed. We propose a set of algorithms which are tested using a large database of real synthetic aperture sonar (SAS) images. The highlights and shadows of the objects in an SAS image are segmented using both a Markovian algorithm and the active contours algorithm. The comparison of both segmentation results is used as a feature for classification. In addition, other features are considered. These include geometrical shape descriptors, not only of the shadow region, but also of the object highlight, which demonstrates a significant improvement of the performance. Furthermore, a novel set of features based on the image statistics is described. Finally, we propose an optimal feature set that leads to the best classification results for the available database.

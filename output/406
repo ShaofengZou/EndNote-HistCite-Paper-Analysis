@@ -1,0 +1,5 @@
+Robust Multitarget Tracking in Forward-Looking Sonar Image Sequences Using Navigational Data
+2012
+I. Quidu, L. Jaulin, A. Bertholom and Y. Dupas
+FLSÄ¿±ê×·×Ù
+This paper presents a new approach to the problem of tracking objects in sequences of forward-looking sonar images. Unlike previous work, navigational data are taken as inputs to the state model of the Kalman filter used for tracking fixed obstacles. This model allows a robust prediction of their apparent motion in relation to the position of the sonar. A complete framework is presented where detection and data association issues are also discussed. An assessment of the proposed method has been carried out on real data from two different systems. Moreover, whereas the state model was first derived for a ground obstacle, a modified state model is proposed to estimate the altitude of the obstacle in relation to the sonar position using a number of successive pings.

@@ -1,0 +1,5 @@
+Modeling 2-D Lens-Based Forward-Scan Sonar Imagery for Targets With Diffuse Reflectance
+2016
+M. D. Aykin and S. S. Negahdaripour
+FLS简单目标仿真
+Sonar images are formed by transmitting acoustical pulses and measuring the reflected sound power from the scene surfaces. The recorded signal by a sonar device encodes information about the shape and material properties of these surfaces. In this paper, we present a detailed derivation of an image model for a new class of high-resolution lens-based 2-D forward-looking sonar systems, when the diffuse reflectance of scene/target can be characterized by the Lambertian model. A simplified single patch model is generalized to account for the finite pulse width of the transmitted beam and the simultaneous arrival of scattered signals from multiple patches at the same range in a given azimuthal direction. Validating the model using intensity measurements of isolated cylindrical targets, we then demonstrate application for multipath reflections from bottom surfaces with cylindrical and spherical targets.

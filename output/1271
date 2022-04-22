@@ -1,0 +1,5 @@
+Automatic Sea-Surface Obstacle Detection and Tracking in Forward-Looking Sonar Image Sequences
+2015
+I. Karoui, I. Quidu and M. Legris
+FLS∫£√Ê’œ∞≠ŒÔºÏ≤‚
+Automatic sea-surface object detection and tracking for safe autonomous underwater vehicle and submarine surfacing is a critical issue in relation to the accidents reported in the last decades. Here, we propose an efficient tool to detect and track sea-surface obstacles by processing forward-looking sonar images. The proposed method can detect either still or moving objects with and without wake. For each image sequence, a sequential procedure is proposed to detect various obstacle signatures. Then, target positions and velocities are estimated in Cartesian coordinates using the debiased converted measurement Kalman filter and the joint probabilistic data association filter. Detection and tracking stages exchange information in order to reduce the number of false alarms. Promising results are obtained using real data collected at sea with various objects and scenarios.

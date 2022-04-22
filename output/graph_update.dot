@@ -1,0 +1,370 @@
+digraph test {
+	ratio="fill";
+	node [fixedsize="true", fontsize="10", shape="circle"];
+	edge [dir=back, style=dashed];	y2011 [fontsize="15", height="0.2363", label="2011", margin="0", rank="2011", shape="plaintext", width="0.58333296"];
+	y2012 [fontsize="15", height="0.2363", label="2012", margin="0", rank="2012", shape="plaintext", width="0.58333296"];
+	y2013 [fontsize="15", height="0.2363", label="2013", margin="0", rank="2013", shape="plaintext", width="0.58333296"];
+	y2014 [fontsize="15", height="0.2363", label="2014", margin="0", rank="2014", shape="plaintext", width="0.58333296"];
+	y2015 [fontsize="15", height="0.2363", label="2015", margin="0", rank="2015", shape="plaintext", width="0.58333296"];
+	y2016 [fontsize="15", height="0.2363", label="2016", margin="0", rank="2016", shape="plaintext", width="0.58333296"];
+	y2017 [fontsize="15", height="0.2363", label="2017", margin="0", rank="2017", shape="plaintext", width="0.58333296"];
+	y2018 [fontsize="15", height="0.2363", label="2018", margin="0", rank="2018", shape="plaintext", width="0.58333296"];
+	y2019 [fontsize="15", height="0.2363", label="2019", margin="0", rank="2019", shape="plaintext", width="0.58333296"];
+	n942 [URL="942", height="1.7385016708940761", label="943,Han YQ 2014
+实时3D成像系统", rank="2014", style="", width="1.7385016708940761"];
+	n1410 [URL="1410", height="1.8233559349922999", label="1411,Huang TA 2016
+FLS3D重构ASFM", rank="2016", style="", width="1.8233559349922999"];
+	n407 [URL="407", height="1.7385016708940761", label="408,Donovan GT 2012
+AUV导航基于MBES", rank="2012", style="", width="1.7385016708940761"];
+	n865 [URL="865", height="4.5", label="866,Paull L 2014
+综述AUV导航定位", rank="2014", style="", width="4.5"];
+	n2369 [URL="2369", height="2.057022917612268", label="2370,Li J 2018
+FLS水下SLAM", rank="2018", style="", width="2.057022917612268"];
+	n667 [URL="667", height="2.396359178719425", label="668,Fallon MF 2013
+AUV导航SLAM基于FLS", rank="2013", style="", width="2.396359178719425"];
+	n2036 [URL="2036", height="1.9821968816472149", label="2037,Cerqueira R 2017
+FLS仿真", rank="2017", style="", width="1.9821968816472149"];
+	n2411 [URL="2411", height="1.904433162818214", label="2412,Cho H 2018
+FLS三维海底重建", rank="2018", style="", width="1.904433162818214"];
+	n190 [URL="190", height="1.6492874988101218", label="191,Falk B 2011
+仿生蝙蝠定位策略", rank="2011", style="", width="1.6492874988101218"];
+	n389 [URL="389", height="1.904433162818214", label="390,Simmons JA 2012
+仿生蝙蝠回声定位", rank="2012", style="", width="1.904433162818214"];
+	n424 [URL="424", height="1.6492874988101218", label="425,Wilken D 2012
+SSS条纹去噪", rank="2012", style="", width="1.6492874988101218"];
+	n932 [URL="932", height="2.519328268680588", label="933,Diesing M 2014
+MBES海底测绘分类", rank="2014", style="", width="2.519328268680588"];
+	n1701 [URL="1701", height="1.9821968816472149", label="1702,Diesing M 2016
+综述海底地质分类", rank="2016", style="", width="1.9821968816472149"];
+	n746 [URL="746", height="1.6492874988101218", label="747,Hurtos N 2014
+FLS配准", rank="2014", style="", width="1.6492874988101218"];
+	n2402 [URL="2402", height="1.9821968816472149", label="2403,Guerneve T 2018
+FLS三维物体重建", rank="2018", style="", width="1.9821968816472149"];
+	n1613 [URL="1613", height="2.2667288548682967", label="1614,Gavazzi GM 2016
+综述MBES底质分类", rank="2016", style="", width="2.2667288548682967"];
+	n1670 [URL="1670", height="1.7385016708940761", label="1671,Lecours V 2016
+综述海底地貌探测", rank="2016", style="", width="1.7385016708940761"];
+	n1970 [URL="1970", height="1.6492874988101218", label="1971,Herkul K 2017
+MBES底质测绘", rank="2017", style="", width="1.6492874988101218"];
+	n2353 [URL="2353", height="2.057022917612268", label="2354,Ierodiaconou D 2018
+MEBS海底测绘", rank="2018", style="", width="2.057022917612268"];
+	n675 [URL="675", height="2.057022917612268", label="676,Saebo TO 2013
+宽带SAS", rank="2013", style="", width="2.057022917612268"];
+	n688 [URL="688", height="1.7385016708940761", label="689,Hansen RE 2013
+SAS技术综述", rank="2013", style="", width="1.7385016708940761"];
+	n943 [URL="943", height="2.748812498016867", label="944,Williams DP 2014
+SAS环境目标分类", rank="2014", style="", width="2.748812498016867"];
+	n1691 [URL="1691", height="1.904433162818214", label="1692,Hunter AJ 2016
+SAS水下导航", rank="2016", style="", width="1.904433162818214"];
+	n2287 [URL="2287", height="1.6492874988101218", label="2288,Odegard O 2018
+SAS水下导航", rank="2018", style="", width="1.6492874988101218"];
+	n1208 [URL="1208", height="3.01117322303193", label="1209,Williams DP 2015
+SAS目标探测", rank="2015", style="", width="3.01117322303193"];
+	n1299 [URL="1299", height="2.519328268680588", label="1300,Williams DP 2015
+SAS无监督特征提取", rank="2015", style="", width="2.519328268680588"];
+	n1338 [URL="1338", height="2.69327520749061", label="1339,Williams DP 2016
+SAS目标分类", rank="2016", style="", width="2.69327520749061"];
+	n1362 [URL="1362", height="1.904433162818214", label="1363,Williams DP 2016
+SAS强流下探雷", rank="2016", style="", width="1.904433162818214"];
+	n2304 [URL="2304", height="2.199049998413493", label="2305,Williams DP 2018
+SAS探雷", rank="2018", style="", width="2.199049998413493"];
+	n2817 [URL="2817", height="1.7385016708940761", label="2818,Ahu A 2019
+SAS无监督目标检测", rank="2019", style="", width="1.7385016708940761"];
+	n429 [URL="429", height="1.6492874988101218", label="430,Yu SC 2012
+3D物体建模和检测", rank="2012", style="", width="1.6492874988101218"];
+	n1277 [URL="1277", height="1.8233559349922999", label="1278,Cho H 2015
+FLS去斑点噪声", rank="2015", style="", width="1.8233559349922999"];
+	n409 [URL="409", height="1.7385016708940761", label="410,Kargl SG 2012
+SAS简单目标探测", rank="2012", style="", width="1.7385016708940761"];
+	n1264 [URL="1264", height="1.7385016708940761", label="1265,Kargl SG 2015
+SAS目标仿真", rank="2015", style="", width="1.7385016708940761"];
+	n1929 [URL="1929", height="1.8233559349922999", label="1930,Buscombe D 2017
+SSS底质分类", rank="2017", style="", width="1.8233559349922999"];
+	n1248 [URL="1248", height="1.6492874988101218", label="1249,Mishne G 2015
+DL水雷探测", rank="2015", style="", width="1.6492874988101218"];
+	n1214 [URL="1214", height="3.56286820563801", label="1215,Hurtos N 2015
+FLS拼接", rank="2015", style="", width="3.56286820563801"];
+	n198 [URL="198", height="2.519328268680588", label="199,Fandos R 2011
+SAS水雷检测和分类", rank="2011", style="", width="2.519328268680588"];
+	n896 [URL="896", height="1.8233559349922999", label="897,Fandos R 2014
+SAS探雷", rank="2014", style="", width="1.8233559349922999"];
+	n1603 [URL="1603", height="1.904433162818214", label="1604,Cho H 2016
+FLS仿真目标检测", rank="2016", style="", width="1.904433162818214"];
+	n917 [URL="917", height="1.7385016708940761", label="918,Petreman IC 2014
+FLS仿真目标检测", rank="2014", style="", width="1.7385016708940761"];
+	n427 [URL="427", height="1.8233559349922999", label="428,Brown CJ 2012
+MBES海底测绘", rank="2012", style="", width="1.8233559349922999"];
+	n2020 [URL="2020", height="1.8233559349922999", label="2021,Wang VT 2017
+SAS配准", rank="2017", style="", width="1.8233559349922999"];
+	n1231 [URL="1231", height="2.4586126411866873", label="1232,Cho H 2015
+FLS水下结构定位", rank="2015", style="", width="2.4586126411866873"];
+	n1379 [URL="1379", height="2.332444749069672", label="1380,Kim J 2016
+FLS水下结构定位", rank="2016", style="", width="2.332444749069672"];
+	n218 [URL="218", height="1.7385016708940761", label="219,Chen P 2011
+3D成像优化", rank="2011", style="", width="1.7385016708940761"];
+	n178 [URL="178", height="2.057022917612268", label="179,Bulow H 2011
+3D测绘配准", rank="2011", style="", width="2.057022917612268"];
+	n877 [URL="877", height="1.904433162818214", label="878,Mallios A 2014
+AUV水下SLAM", rank="2014", style="", width="1.904433162818214"];
+	n420 [URL="420", height="1.6492874988101218", label="421,He B 2012
+AUV导航SLAM基于FLS", rank="2012", style="", width="1.6492874988101218"];
+	n668 [URL="668", height="2.960561665146384", label="669,Aykin MD 2013
+AUV导航SLAM基于FLS", rank="2013", style="", width="2.960561665146384"];
+	n1271 [URL="1271", height="1.9821968816472149", label="1272,Karoui I 2015
+FLS海面障碍物检测", rank="2015", style="", width="1.9821968816472149"];
+	n212 [URL="212", height="1.7385016708940761", label="213,Bates CR 2011
+海洋考古测绘", rank="2011", style="", width="1.7385016708940761"];
+	n486 [URL="486", height="1.9821968816472149", label="487,DeMarco KJ 2013
+FLS潜水员追踪", rank="2013", style="", width="1.9821968816472149"];
+	n619 [URL="619", height="1.9821968816472149", label="620,Lyons AP 2013
+SAS测量海底粗糙度", rank="2013", style="", width="1.9821968816472149"];
+	n216 [URL="216", height="2.057022917612268", label="217,Chailloux C 2011
+SSS拼接", rank="2011", style="", width="2.057022917612268"];
+	n372 [URL="372", height="1.6492874988101218", label="373,Couillard M 2012
+SSS探雷", rank="2012", style="", width="1.6492874988101218"];
+	n920 [URL="920", height="2.960561665146384", label="921,Zhang XB 2014
+SAS成像改进", rank="2014", style="", width="2.960561665146384"];
+	n1596 [URL="1596", height="1.6492874988101218", label="1597,Tian Z 2016
+SAS成像算法", rank="2016", style="", width="1.6492874988101218"];
+	n1963 [URL="1963", height="1.7385016708940761", label="1964,Zhang XB 2017
+SAS成像算法", rank="2017", style="", width="1.7385016708940761"];
+	n887 [URL="887", height="1.7385016708940761", label="888,Grote AB 2014
+DIDSON探鱼", rank="2014", style="", width="1.7385016708940761"];
+	n162 [URL="162", height="1.554963166046448", label="163,McGonigle C 2011
+DIDSON探鱼", rank="2011", style="", width="1.554963166046448"];
+	n192 [URL="192", height="3.8874079151161203", label="193,Brown CJ 2011
+综述海底栖息地测绘", rank="2011", style="", width="3.8874079151161203"];
+	n447 [URL="447", height="2.057022917612268", label="448,Hasan RC 2012
+MBES底质分类", rank="2012", style="", width="2.057022917612268"];
+	n1206 [URL="1206", height="1.7385016708940761", label="1207,Barngrover C 2015
+SSS探雷", rank="2015", style="", width="1.7385016708940761"];
+	n1593 [URL="1593", height="2.057022917612268", label="1594,Barngrover C 2016
+SSS探雷", rank="2016", style="", width="2.057022917612268"];
+	n182 [URL="182", height="3.38896365086226", label="183,Celik T 2011
+侧扫分割", rank="2011", style="", width="3.38896365086226"];
+	n1260 [URL="1260", height="2.332444749069672", label="1261,Acosta GG 2015
+SSS目标检测CFAR", rank="2015", style="", width="2.332444749069672"];
+	n1946 [URL="1946", height="2.396359178719425", label="1947,Huo GY 2017
+SSS去噪分割", rank="2017", style="", width="2.396359178719425"];
+	n676 [URL="676", height="2.332444749069672", label="677,Negahdaripour S 2013
+FLS三维运动估计", rank="2013", style="", width="2.332444749069672"];
+	n1038 [URL="1038", height="2.69327520749061", label="1039,Huang TA 2015
+FLS3D重构ASFM", rank="2015", style="", width="2.69327520749061"];
+	n1694 [URL="1694", height="2.396359178719425", label="1695,Mallios A 2016
+AUV水下SLAM", rank="2016", style="", width="2.396359178719425"];
+	n415 [URL="415", height="1.7385016708940761", label="416,Webster SE 2012
+AUV信标导航", rank="2012", style="", width="1.7385016708940761"];
+	n423 [URL="423", height="2.578614692299584", label="424,Langkau MC 2012
+DIDISON探鱼", rank="2012", style="", width="2.578614692299584"];
+	n1279 [URL="1279", height="2.748812498016867", label="1280,Martignac F 2015
+DIDISON探鱼", rank="2015", style="", width="2.748812498016867"];
+	n225 [URL="225", height="1.6492874988101218", label="226,Kemna S 2011
+ AUV水下监控", rank="2011", style="", width="1.6492874988101218"];
+	n207 [URL="207", height="1.9821968816472149", label="208,Bates ME 2011
+仿生蝙蝠谐波", rank="2011", style="", width="1.9821968816472149"];
+	n2077 [URL="2077", height="1.7385016708940761", label="2078,Kim J 2018
+AUV声学光学模拟器", rank="2018", style="", width="1.7385016708940761"];
+	n632 [URL="632", height="2.396359178719425", label="633,Lucieer V 2013
+MBES底质分类", rank="2013", style="", width="2.396359178719425"];
+	n167 [URL="167", height="1.6492874988101218", label="168,Brown CJ 2011
+MBES底质分类", rank="2011", style="", width="1.6492874988101218"];
+	n438 [URL="438", height="3.25243880940984", label="439,Hover FS 2012
+FLS船体检查", rank="2012", style="", width="3.25243880940984"];
+	n1976 [URL="1976", height="2.199049998413493", label="1977,Aykin MD 2017
+FLS三维物体重建", rank="2017", style="", width="2.199049998413493"];
+	n1978 [URL="1978", height="1.7385016708940761", label="1979,Zhao JH 2017
+FLS三维物体重建", rank="2017", style="", width="1.7385016708940761"];
+	n406 [URL="406", height="1.904433162818214", label="407,Quidu I 2012
+FLS目标追踪", rank="2012", style="", width="1.904433162818214"];
+	n405 [URL="405", height="2.332444749069672", label="406,Rakowitz G 2012
+FLS目标追踪", rank="2012", style="", width="2.332444749069672"];
+	n645 [URL="645", height="1.904433162818214", label="646,Blomberg AEA 2013
+浅水SAS自适应BF", rank="2013", style="", width="1.904433162818214"];
+	n1205 [URL="1205", height="1.6492874988101218", label="1206,Powers J 2015
+SSS生物群定位", rank="2015", style="", width="1.6492874988101218"];
+	n222 [URL="222", height="3.56286820563801", label="223,Hansen RE 2011
+SAS成像和测绘挑战", rank="2011", style="", width="3.56286820563801"];
+	n403 [URL="403", height="1.9821968816472149", label="404,Burguera A 2012
+MSIS检测定位UUV", rank="2012", style="", width="1.9821968816472149"];
+	n661 [URL="661", height="2.396359178719425", label="662,Kaeser AJ 2013
+SSS底质测绘", rank="2013", style="", width="2.396359178719425"];
+	n156 [URL="156", height="2.1292210053332283", label="157,Tucker JD 2011
+多声呐目标探测", rank="2011", style="", width="2.1292210053332283"];
+	n283 [URL="283", height="3.10992633209289", label="284,Hurtos N 2012
+FLS配准", rank="2012", style="", width="3.10992633209289"];
+	n421 [URL="421", height="2.057022917612268", label="422,Handegard NO 2012
+声呐观测生物捕食", rank="2012", style="", width="2.057022917612268"];
+	n217 [URL="217", height="1.904433162818214", label="218,Karabchevsky S 2011
+FLS去斑点噪声", rank="2011", style="", width="1.904433162818214"];
+	n1649 [URL="1649", height="1.6492874988101218", label="1650,Aykin MD 2016
+FLS简单目标仿真", rank="2016", style="", width="1.6492874988101218"];
+	n1975 [URL="1975", height="1.8233559349922999", label="1976,Shahrestani S 2017
+ARIS探鱼", rank="2017", style="", width="1.8233559349922999"];
+	n1707 [URL="1707", height="1.7385016708940761", label="1708,Wang XM 2016
+SSS分割", rank="2016", style="", width="1.7385016708940761"];
+	n158 [URL="158", height="1.9821968816472149", label="159,Barkby S 2011
+水下无特征SLAM", rank="2011", style="", width="1.9821968816472149"];
+	n1294 [URL="1294", height="1.7385016708940761", label="1295,Galceran E 2015
+AUV水下SLAM", rank="2015", style="", width="1.7385016708940761"];
+	n51 [URL="51", height="2.396359178719425", label="52,Fallon MF 2011
+AUV导航基于SSS", rank="2011", style="", width="2.396359178719425"];
+	n1411 [URL="1411", height="1.9821968816472149", label="1412,Teixeira PV 2016
+FLS测绘SLAM", rank="2016", style="", width="1.9821968816472149"];
+	n1038 -> n1410;
+	n1038 -> n2036;
+	n1038 -> n2369;
+	n1038 -> n2402;
+	n1205 -> n1929;
+	n1206 -> n1593;
+	n1206 -> n1603;
+	n1208 -> n1299;
+	n1208 -> n1338;
+	n1208 -> n1362;
+	n1208 -> n2304;
+	n1208 -> n2817;
+	n1231 -> n1379;
+	n1231 -> n1603;
+	n1231 -> n2411;
+	n1248 -> n2304;
+	n1248 -> n2817;
+	n1260 -> n1946;
+	n1260 -> n2817;
+	n1294 -> n2402;
+	n1299 -> n2304;
+	n1362 -> n2304;
+	n156 -> n1208;
+	n156 -> n2304;
+	n156 -> n2817;
+	n158 -> n407;
+	n158 -> n865;
+	n1593 -> n2304;
+	n1593 -> n2817;
+	n1613 -> n1970;
+	n1613 -> n2353;
+	n162 -> n192;
+	n162 -> n447;
+	n1649 -> n1976;
+	n167 -> n162;
+	n167 -> n192;
+	n167 -> n427;
+	n167 -> n632;
+	n167 -> n932;
+	n1670 -> n2353;
+	n1694 -> n2402;
+	n1701 -> n2353;
+	n178 -> n865;
+	n178 -> n877;
+	n182 -> n1260;
+	n182 -> n1946;
+	n182 -> n2817;
+	n190 -> n389;
+	n192 -> n1613;
+	n192 -> n1670;
+	n192 -> n1701;
+	n192 -> n1929;
+	n192 -> n2353;
+	n192 -> n427;
+	n192 -> n632;
+	n192 -> n932;
+	n198 -> n1603;
+	n198 -> n2817;
+	n198 -> n896;
+	n198 -> n943;
+	n207 -> n389;
+	n212 -> n2287;
+	n217 -> n1277;
+	n217 -> n1649;
+	n217 -> n668;
+	n218 -> n942;
+	n222 -> n2287;
+	n222 -> n675;
+	n222 -> n688;
+	n222 -> n896;
+	n2304 -> n2817;
+	n283 -> n1214;
+	n283 -> n2369;
+	n283 -> n668;
+	n283 -> n676;
+	n283 -> n746;
+	n372 -> n1208;
+	n372 -> n943;
+	n405 -> n1279;
+	n406 -> n1271;
+	n406 -> n668;
+	n407 -> n865;
+	n409 -> n1264;
+	n415 -> n865;
+	n420 -> n668;
+	n423 -> n1279;
+	n424 -> n1701;
+	n424 -> n932;
+	n427 -> n1670;
+	n427 -> n1701;
+	n427 -> n932;
+	n429 -> n1277;
+	n438 -> n1038;
+	n438 -> n1214;
+	n438 -> n1410;
+	n438 -> n746;
+	n438 -> n865;
+	n447 -> n1701;
+	n447 -> n1970;
+	n447 -> n2353;
+	n447 -> n932;
+	n51 -> n865;
+	n619 -> n1691;
+	n619 -> n2020;
+	n632 -> n1613;
+	n632 -> n1670;
+	n632 -> n1701;
+	n632 -> n1970;
+	n632 -> n2353;
+	n632 -> n932;
+	n661 -> n1929;
+	n667 -> n1410;
+	n667 -> n2036;
+	n667 -> n2369;
+	n667 -> n2411;
+	n668 -> n1038;
+	n668 -> n1214;
+	n668 -> n1410;
+	n668 -> n2402;
+	n668 -> n2411;
+	n675 -> n1691;
+	n675 -> n2287;
+	n675 -> n688;
+	n675 -> n943;
+	n676 -> n1038;
+	n676 -> n2411;
+	n688 -> n2287;
+	n877 -> n1694;
+	n896 -> n2304;
+	n920 -> n1596;
+	n920 -> n1963;
+	n932 -> n1613;
+	n932 -> n1670;
+	n932 -> n1701;
+	n932 -> n1970;
+	n932 -> n2353;
+	n943 -> n1299;
+	n943 -> n1338;
+	n943 -> n1362;
+	n943 -> n2304;
+	y2011 -> y2012 [arrowhead="normal", arrowtail="none", color="white", style="invis"];
+	y2012 -> y2013 [arrowhead="normal", arrowtail="none", color="white", style="invis"];
+	y2013 -> y2014 [arrowhead="normal", arrowtail="none", color="white", style="invis"];
+	y2014 -> y2015 [arrowhead="normal", arrowtail="none", color="white", style="invis"];
+	y2015 -> y2016 [arrowhead="normal", arrowtail="none", color="white", style="invis"];
+	y2016 -> y2017 [arrowhead="normal", arrowtail="none", color="white", style="invis"];
+	y2017 -> y2018 [arrowhead="normal", arrowtail="none", color="white", style="invis"];
+	y2018 -> y2019 [arrowhead="normal", arrowtail="none", color="white", style="invis"];
+	{rank=same; y2019; n2817}
+	{rank=same; y2016; n1410; n1701; n1613; n1670; n1691; n1338; n1362; n1603; n1379; n1596; n1593; n1694; n1649; n1707; n1411}
+	{rank=same; y2018; n2369; n2411; n2402; n2353; n2287; n2304; n2077}
+	{rank=same; y2014; n942; n865; n932; n746; n943; n896; n917; n877; n920; n887}
+	{rank=same; y2017; n2036; n1970; n1929; n2020; n1963; n1946; n1976; n1978; n1975}
+	{rank=same; y2013; n667; n675; n688; n668; n486; n619; n676; n632; n645; n661}
+	{rank=same; y2011; n190; n198; n218; n178; n212; n216; n162; n192; n182; n225; n207; n167; n222; n156; n217; n158; n51}
+	{rank=same; y2015; n1208; n1299; n1277; n1264; n1248; n1214; n1231; n1271; n1206; n1260; n1038; n1279; n1205; n1294}
+	{rank=same; y2012; n407; n389; n424; n429; n409; n427; n420; n372; n447; n415; n423; n438; n406; n405; n403; n283; n421}
+}
